@@ -5,14 +5,10 @@ www.peopleinspace.me
 <img width="1267" alt="screen shot 2018-12-12 at 9 47 50 am" src="https://user-images.githubusercontent.com/43006719/49877321-271ea480-fdf3-11e8-9081-f26ee8c94247.png">
 
 <br>
-<br>
-<br>
 
 ## Find this!
 <img width="137" alt="screen shot 2018-12-12 at 11 50 53 am" src="https://user-images.githubusercontent.com/43006719/49885011-365a1e00-fe04-11e8-92fd-57e6f8deea06.png">
 
-<br>
-<br>
 <br>
 
 ## Concept
