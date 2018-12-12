@@ -28,7 +28,7 @@ https://saetbyeolkwon.github.io/Single-Server/
 
 ## Dec 12, 2018
 
-<img width="1267" alt="screen shot 2018-12-12 at 9 47 50 am" src="https://user-images.githubusercontent.com/43006719/49877321-271ea480-fdf3-11e8-9081-f26ee8c94247.png">
+<img width="583" alt="screen shot 2018-12-12 at 9 11 17 am" src="https://user-images.githubusercontent.com/43006719/49876624-bc209e00-fdf1-11e8-985e-146f745cd34a.png">
 
 <br>
 <br>
