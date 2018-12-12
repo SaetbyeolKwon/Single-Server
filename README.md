@@ -1,6 +1,6 @@
 # Single Server
 
-https://saetbyeolkwon.github.io/Single-Server/
+https://peopleinspace.me
 
 <img width="1267" alt="screen shot 2018-12-12 at 9 47 50 am" src="https://user-images.githubusercontent.com/43006719/49877321-271ea480-fdf3-11e8-9081-f26ee8c94247.png">
 
