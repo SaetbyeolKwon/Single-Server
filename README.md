@@ -20,13 +20,10 @@ www.peopleinspace.me
 
 <br>
 <br>
-<br>
 
 ## I can't use live stream
 <img width="583" alt="screen shot 2018-12-12 at 9 11 17 am" src="https://user-images.githubusercontent.com/43006719/49876624-bc209e00-fdf1-11e8-985e-146f745cd34a.png">
 
-<br>
-<br>
 <br>
 
 ## Dec 12, 2018
@@ -35,8 +32,6 @@ www.peopleinspace.me
 
 There were six people in space.
 
-<br>
-<br>
 <br>
 
 ## License
