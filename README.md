@@ -1,4 +1,4 @@
-# Single Server
+# PEOPLE IN SPACE
 
 peopleinspace.me
 
