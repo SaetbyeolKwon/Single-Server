@@ -1,4 +1,3 @@
-
 var baseURL;
 var pokemon;
 var name;
@@ -45,6 +44,7 @@ var ajaxButton = document.getElementById("ajaxButton");
           console.log('Number = '+parsed.number);
           title.innerHTML = parsed.number;
           // document.body.style.backgroundImage = 'space_station.gif';
+          // image.innerHTML = '<embed width="420" height="315"src="http://www.ustream.tv/channel/live-iss-stream/pop-out#to1137912">';
           image.innerHTML = "<img src = 'space_station.gif'>";
     
           
